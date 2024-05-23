@@ -1,7 +1,7 @@
 {
-    "word": "hello",
+    "word": "HELLO",
     "phonetic": "jeˈlou",
-    "translation": "Hola",
+    "translation": "HOLA",
     "phrases": [
         {
             "phrase": "Hello, how are you?",
@@ -16,5 +16,5 @@
             "translation": "Hola, ¿de dónde eres?"
         }
     ],
-    "fun-fact": "The word 'hello' comes from the Old High German word 'hallo' which means 'to fetch' or 'to hail'."
+    "fun-fact": "La palabra 'hello' es una de las primeras palabras que se aprenden en inglés y es una de las más usadas en el mundo."
 }
