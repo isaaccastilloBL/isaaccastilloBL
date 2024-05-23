@@ -1,20 +1,20 @@
 {
-    "word": "HELLO",
-    "phonetic": "jeˈlou",
-    "translation": "HOLA",
+    "word": "SHOULD",
+    "phonetic": "shʊd",
+    "translation": "DEBERÍA",
     "phrases": [
         {
-            "phrase": "Hello, how are you?",
-            "translation": "Hola, ¿cómo estás?"
+            "phrase": "You should go to the doctor.",
+            "translation": "Deberías ir al médico."
         },
         {
-            "phrase": "Hello, my name is John",
-            "translation": "Hola, mi nombre es John"
+            "phrase": "I should have studied more.",
+            "translation": "Debería haber estudiado más."
         },
         {
-            "phrase": "Hello, where are you from?",
-            "translation": "Hola, ¿de dónde eres?"
+            "phrase": "You should have told me.",
+            "translation": "Deberías haberme dicho."
         }
     ],
-    "fun-fact": "La palabra 'hello' es una de las primeras palabras que se aprenden en inglés y es una de las más usadas en el mundo."
+    "fun-fact": "Should es un verbo modal que se usa para expresar obligación, consejo o recomendación. También se puede usar para expresar una suposición o una deducción."
 }
