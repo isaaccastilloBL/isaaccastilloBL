@@ -1,0 +1,20 @@
+{
+    "word": "hello",
+    "phonetic": "jeˈlou",
+    "translation": "Hola",
+    "phrases": [
+        {
+            "phrase": "Hello, how are you?",
+            "translation": "Hola, ¿cómo estás?"
+        },
+        {
+            "phrase": "Hello, my name is John",
+            "translation": "Hola, mi nombre es John"
+        },
+        {
+            "phrase": "Hello, where are you from?",
+            "translation": "Hola, ¿de dónde eres?"
+        }
+    ],
+    "fun-fact": "The word 'hello' comes from the Old High German word 'hallo' which means 'to fetch' or 'to hail'."
+}
