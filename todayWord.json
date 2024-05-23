@@ -1,20 +1,20 @@
 {
-    "word": "PEOPLE",
-    "phonetic": "ˈpiːpl",
-    "translation": "GENTE",
+    "word": "HELLO",
+    "phonetic": "jeˈlou",
+    "translation": "HOLA",
     "phrases": [
         {
-            "phrase": "PEOPLE ARE NICE",
-            "translation": "LA GENTE ES AMABLE"
+            "phrase": "Hello, how are you?",
+            "translation": "Hola, ¿cómo estás?"
         },
         {
-            "phrase": "PEOPLE ARE FRIENDLY",
-            "translation": "LA GENTE ES AMIGABLE"
+            "phrase": "Hello, my name is John",
+            "translation": "Hola, mi nombre es John"
         },
         {
-            "phrase": "PEOPLE ARE HAPPY",
-            "translation": "LA GENTE ES FELIZ"
+            "phrase": "Hello, where are you from?",
+            "translation": "Hola, ¿de dónde eres?"
         }
     ],
-    "fun-fact": "La palabra PEOPLE es un sustantivo que se utiliza para referirse a un grupo de personas. Es una palabra muy común en inglés y se utiliza en muchos contextos diferentes."
+    "fun-fact": "La palabra 'hello' es una de las primeras palabras que se aprenden en inglés y es una de las más usadas en el mundo."
 }
